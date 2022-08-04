@@ -23,11 +23,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="36sp"
-            tools:text="88"
             android:visibility="gone"
-            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/buttonGetResult"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintBottom_toTopOf="@id/buttonGetResult"/>
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="88" />
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/buttonGetResult"

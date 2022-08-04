@@ -6,4 +6,12 @@
     <string name="get_result_text">Получить</string>
     <string name="enter_result_text">Введите число</string>
     <string name="get_result_again_text">Заново</string>
+    <string name="access_denied_toast">Доступ запрещен</string>
+    <string name="something_wrong_toast">Что-то пошло не так</string>
+    <string name="camera_explain_title">Разрешить доступ к камере?</string>
+    <string name="camera_explain_text">Приложению требуется доступ к камере для фотографирования.\nВы сможете отозвать доступ через меню настроек в любой момент.</string>
+    <string name="camera_not_allowed_title">Доступ к камере запрещен</string>
+    <string name="camera_not_allowed_text">Приложению требуется доступ к камере для фотографирования.\nПожалуйста, предоставьте доступ в меню настроек.</string>
+    <string name="camera_explain_button">Разрешить</string>
+    <string name="camera_not_allowed_button">Настройки</string>
 </resources>
