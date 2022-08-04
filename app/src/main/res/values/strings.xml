@@ -2,4 +2,8 @@
     <string name="app_name">TestActivityResultApp</string>
     <string name="camera">Camera</string>
     <string name="number">Number</string>
+    <string name="no_result_text">Результата еще нет</string>
+    <string name="get_result_text">Получить</string>
+    <string name="enter_result_text">Введите число</string>
+    <string name="get_result_again_text">Заново</string>
 </resources>
